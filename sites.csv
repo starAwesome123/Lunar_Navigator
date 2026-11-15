@@ -1,0 +1,7 @@
+name,lat_deg,lon_deg_east,note
+apollo11_check,0.67416,23.47314,Apollo 11 Lunar Module (Wagner et al. 2017) - Earth should stay high in the sky
+connecting_ridge,-89.53432,209.94767,Gracy & Lee 2024 poster: proposed landing site in NASA's Connecting Ridge candidate region
+peak_near_shackleton,-89.01701,126.27302,Gracy & Lee 2024 poster: proposed landing site in NASA's Peak Near Shackleton candidate region
+nobile_rim_1,-85.54419,37.6266,"Chen et al. 2024 (ICES-2024-211) Table 1: landing site, Nobile Rim 1"
+haworth,-86.80402,338.3329,"Chen et al. 2024 (ICES-2024-211) Table 1: landing site, Haworth"
+apollo17,20.1911,30.7723,
