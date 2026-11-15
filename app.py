@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 from metrics import load_site, load_gnss, site_metrics, hours_until_change
 
 st.set_page_config(page_title=" LuGRE landing navigation site", layout="wide")
-st.title("Lunar Landing Site Navigator")
+st.title("LuGRE landing navigation site")
 st.caption("Compare lunar landing sites by Sun and Earth visibility, plus a GNSS-signal "
            "geometry layer (can Earth's GPS/Galileo signals reach the site?).")
 
