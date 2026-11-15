@@ -1,7 +1,8 @@
 #  LuGRE landing navigation site
 
 **NASA Space Apps Challenge 2026 – challenge: "Lunar Landing Site Navigator"**
-Demo video: [[LINK](https://lugre-landing-navigation-site.streamlit.app/))] · Repo: [[LINK](https://github.com/starAwesome123/Lunar_Navigator.git)]
+Demo: [[LINK](https://lugre-landing-navigation-site.streamlit.app/))] · Repo: [[LINK](https://github.com/starAwesome123/Lunar_Navigator.git)] . materials: [[LINK](https://drive.google.com/drive/folders/1R1vxo8LCm3E1K6C-qfs0bJU4CyhXk20T))] . 
+
 
 A small web app that lets a mission planner, student or curious member of the public **compare lunar landing sites and dates** by where the Sun and Earth sit relative to the horizon, and adds one question most tools do not answer:
 
